@@ -1,0 +1,31 @@
+userInfo:
+  type: xpath
+  value: "//a[@class='site-nav-login-info-nick']"
+navi_Message:
+  type: xpath
+  value: "//span[.='消息']"
+taobao_phone:
+  type: xpath
+  value: "//span[.='手机逛淘宝']"
+myTaobao:
+  type: xpath
+  value: "//span[.='我的淘宝']"
+myShoppingCar:
+  type: xpath
+  value: "//span[.='购物车']"
+myFavorite:
+  type: xpath
+  value: "//span[.='收藏夹']"
+goodsSplit:
+  type: xpath
+  value: "//span[.='商品分类']"
+sellerCenter:
+  type: xpath
+  value: "//span[.='卖家中心']"
+contactServer:
+  type: xpath
+  value: "//span[.='联系客服']"
+webNavi:
+  type: xpath
+  value: "//span[.='网站导航']"
+

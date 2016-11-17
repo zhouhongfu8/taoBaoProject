@@ -1,0 +1,12 @@
+clickLogin:
+  type: linkText
+  value: 亲，请登录
+userName:
+  type: id
+  value: TPL_username_1
+userPw:
+  type: id
+  value: TPL_password_1
+sumit:
+  type: id
+  value: J_SubmitStatic
